@@ -5,13 +5,17 @@
     <Version val="14050.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="1"/>
+    <LastIsn val="5"/>
     <LastIsnFolder val="0"/>
   </Header>
 
   <ProgramsRepositoryOutLine>
     <Programs>
       <Program id="1"/>
+      <Program id="2"/>
+      <Program id="3"/>
+      <Program id="4"/>
+      <Program id="5"/>
     </Programs>
   </ProgramsRepositoryOutLine>
 
